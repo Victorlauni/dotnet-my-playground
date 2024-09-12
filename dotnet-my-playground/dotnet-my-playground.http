@@ -1,0 +1,6 @@
+@dotnet_my_playground_HostAddress = http://localhost:5290
+
+GET {{dotnet_my_playground_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
